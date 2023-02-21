@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/srv.aspire.uowm.gr.ico",
     "slug": "account-management",
     "status": "up",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 754,
     "timeDay": 754,
     "timeWeek": 754,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2023-02-21": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
