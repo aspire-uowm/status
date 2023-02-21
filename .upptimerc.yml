@@ -10,11 +10,7 @@ sites:
   - name: 4minitz
     url: https://4minitz.aspirewm.eu
   - name: Account Management
-    url: https://srv.aspire.uowm.gr
-  - name: Google Drive
-    url: https://drive.google.com
-  - name: Google Calendar
-    url: https://calendar.google.com
+    url: https://srv.aspire.uowm.gr/login/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
