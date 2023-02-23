@@ -4,9 +4,9 @@
     "url": "https://aspire.uowm.gr",
     "icon": "https://icons.duckduckgo.com/ip3/aspire.uowm.gr.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 5253,
     "timeMonth": 5253,
     "timeYear": 5253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   },
   {
     "name": "Rocket.Chat",
