@@ -4,19 +4,19 @@
     "url": "https://aspire.uowm.gr",
     "icon": "https://icons.duckduckgo.com/ip3/aspire.uowm.gr.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5253,
-    "timeDay": 3770,
-    "timeWeek": 5253,
-    "timeMonth": 5253,
-    "timeYear": 5253,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 5051,
+    "timeDay": 4008,
+    "timeWeek": 5051,
+    "timeMonth": 5051,
+    "timeYear": 5051,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 44
     }
   },
   {
