@@ -11,6 +11,8 @@ sites:
     url: https://4minitz.aspirewm.eu
   - name: Account Management
     url: https://srv.aspire.uowm.gr/login/
+  - name: Redmine (Team Project Management System)
+    url: https://redmine.aspirewm.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
